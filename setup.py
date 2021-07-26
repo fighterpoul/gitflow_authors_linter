@@ -11,7 +11,7 @@ def read(fname):
 
 setup(
     name='gitflow_authors_linter',
-    version='0.0.1',
+    version='0.0.2',
     description='Provides additional functionality to gitflow-linter tool',
     long_description=read("README.md"),
     long_description_content_type='text/markdown',
