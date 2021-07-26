@@ -21,7 +21,7 @@ pip install gitflow-authors-linter
 ```
 git clone https://github.com/fighterpoul/gitflow_authors_linter.git
 cd gitflow_authors_linter
-git checkout 0.0.1
+git checkout 0.0.2
 python setup.py install
 ```
 
